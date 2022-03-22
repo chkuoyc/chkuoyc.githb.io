@@ -1,3 +1,2 @@
-I am learning to pull the repository.
-Now is 18 March,2022 pm 02:26
-Be changed remote url to test the pull and push is normal.
+The above comtent of test.txt remove to test1.txt on March 22th 2022.
+The test.txt is just recoding the command in any language.

@@ -10,3 +10,8 @@ Check it and try again.
 I don't successful the operation to pull to local git.Try again.
 I want to merge this file with masteryc branch.
 fix and Revises it for pull to local git.
+# annotation: The below context is from test.txt remove to here. 2022.03.22
+I am learning to pull the repository.
+Now is 18 March,2022 pm 02:26
+Be changed remote url to test the pull and push is normal.
+The comtent of test.txt remove to test1.txt. 
